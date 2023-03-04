@@ -2,7 +2,7 @@
 
 ## Hello there 👋
 
-🔵 Mais conhecida como Morgs; \
+💙 Mais conhecida como Morgs; \
 💻 Evangelizadora da palavra da Ada Lovelace; \
 👑 Co-fundadora, coordenadora e podcaster da [Feministech](https://github.com/feministech); \
 🥑 Developer Relations e Tech Writer na [BotCity](https://github.com/botcity-dev); \
