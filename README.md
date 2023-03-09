@@ -27,9 +27,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Comunidades, organizações e iniciativas de tecnologia para meninas e mulheres](https://dev.to/feministech/comunidades-organizacoes-e-iniciativas-de-tecnologia-para-meninas-e-mulheres-1i8d)
 - [E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.](https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m)
 - [7 curiosidades sobre a linguagem Python](https://dev.to/morgannadev/7-curiosidades-sobre-a-linguagem-python-3im6)
 - [Resultado da Análise - Pesquisa sobre Meetups &lpar;Eventos&rpar; de Tecnologia de Comunidades](https://dev.to/morgannadev/resultado-da-analise-pesquisa-sobre-meetups-eventos-de-tecnologia-de-comunidades-a80)
 - [O que é RPA? &lpar;e por que essa sigla não surgiu para tirar empregos&rpar;](https://dev.to/morgannadev/o-que-e-rpa-e-por-que-essa-sigla-nao-surgiu-para-tirar-empregos-3lee)
-- [Você conhece os 3 C&#39;s da área DevRel?](https://dev.to/devrelbrasil/voce-conhece-os-3-cs-da-area-devrel-43pl)
 <!-- BLOG-POST-LIST:END -->
