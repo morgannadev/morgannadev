@@ -5,6 +5,7 @@
 💙 Mais conhecida como Morgs; \
 💻 Evangelizadora da palavra da Ada Lovelace; \
 👑 Co-fundadora, coordenadora e podcaster da [Feministech](https://github.com/feministech); \
+🤩 Líder de comunidade no [GitHub Open Source Community SP](https://linktr.ee/ghcommunitysp); \
 🥑 Developer Relations e Tech Writer na [BotCity](https://github.com/botcity-dev); \
 ⚔️ Moderadora na [Abacatinhos](https://github.com/abacatinhos); \
 📝 Criadora de conteúdo tech; \
