@@ -28,9 +28,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
-- [Chatbot, bot e RPA: quais as diferenças?](https://dev.to/morgannadev/chatbot-bot-e-rpa-quais-as-diferencas-539g)
+- [Chatbot, bot e RPA: quais as diferenças?](https://dev.to/botcitydev/chatbot-bot-e-rpa-quais-as-diferencas-539g)
 - [Por qual linguagem de programação devo começar?](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
-- [Entendendo code, no-code e low-code na automação](https://dev.to/morgannadev/entendendo-code-no-code-e-low-code-na-automacao-3bcd)
+- [Entendendo code, no-code e low-code na automação](https://dev.to/botcitydev/entendendo-code-no-code-e-low-code-na-automacao-3bcd)
 - [Como descrever imagens nos slides feitos no Canva](https://dev.to/feministech/como-descrever-imagens-nos-slides-feitos-no-canva-2800)
 - [Mulheres na Tecnologia](https://dev.to/feministech/mulheres-na-tecnologia-51mo)
 <!-- BLOG-POST-LIST:END -->
