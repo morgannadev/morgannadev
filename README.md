@@ -28,9 +28,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Chatbot, bot, and RPA: what are the differences?](https://dev.to/botcitydev/chatbot-bot-and-rpa-what-are-the-differences-4621)
 - [Understanding code, no-code, and low-code in automation](https://dev.to/botcitydev/understanding-code-no-code-and-low-code-in-automation-34lg)
 - [What is RPA? &lpar;and why it&#39;s not going to take your job&rpar;](https://dev.to/botcitydev/what-is-rpa-and-why-its-not-going-to-take-your-job-39f9)
 - [Chatbot, bot e RPA: quais as diferenças?](https://dev.to/botcitydev/chatbot-bot-e-rpa-quais-as-diferencas-539g)
 - [Por qual linguagem de programação devo começar?](https://dev.to/feministech/por-qual-linguagem-de-programacao-devo-comecar-40fj)
-- [Entendendo code, no-code e low-code na automação](https://dev.to/botcitydev/entendendo-code-no-code-e-low-code-na-automacao-3bcd)
 <!-- BLOG-POST-LIST:END -->
