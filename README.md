@@ -28,9 +28,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Os desafios do Hello World: criando meu primeiro bot com Python RPA utilizando BotCity](https://dev.to/botcitydev/os-desafios-do-hello-world-criando-meu-primeiro-bot-com-python-rpa-utilizando-botcity-1a0p)
 - [How to use GitHub Actions to keep your Python RPA project updated](https://dev.to/botcitydev/how-to-use-github-actions-to-keep-your-python-rpa-project-updated-gia)
 - [Como utilizar o GitHub Actions para manter seu projeto Python RPA atualizado](https://dev.to/botcitydev/como-utilizar-o-github-actions-para-manter-seu-projeto-python-rpa-atualizado-o0i)
 - [Chatbot, bot, and RPA: what are the differences?](https://dev.to/botcitydev/chatbot-bot-and-rpa-what-are-the-differences-4621)
 - [Understanding code, no-code, and low-code in automation](https://dev.to/botcitydev/understanding-code-no-code-and-low-code-in-automation-34lg)
-- [What is RPA? &lpar;and why it&#39;s not going to take your job&rpar;](https://dev.to/botcitydev/what-is-rpa-and-why-its-not-going-to-take-your-job-39f9)
 <!-- BLOG-POST-LIST:END -->
