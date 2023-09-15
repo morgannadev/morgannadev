@@ -28,9 +28,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Comunicação além das técnicas](https://dev.to/morgannadev/comunicacao-alem-das-tecnicas-2fen)
 - [Como iniciar meus estudos em Python](https://dev.to/feministech/como-iniciar-meus-estudos-em-python-2aii)
 - [Por que usar Python em seu projeto RPA?](https://dev.to/morgannadev/por-que-usar-python-em-seu-projeto-rpa-49fn)
 - [Hello World challenges: creating my first bot with Python RPA using BotCity](https://dev.to/botcitydev/hello-world-challenges-creating-my-first-bot-with-python-rpa-using-botcity-4ab1)
 - [Os desafios do Hello World: criando meu primeiro bot com Python RPA utilizando BotCity](https://dev.to/botcitydev/os-desafios-do-hello-world-criando-meu-primeiro-bot-com-python-rpa-utilizando-botcity-1a0p)
-- [How to use GitHub Actions to keep your Python RPA project updated](https://dev.to/botcitydev/how-to-use-github-actions-to-keep-your-python-rpa-project-updated-gia)
 <!-- BLOG-POST-LIST:END -->
