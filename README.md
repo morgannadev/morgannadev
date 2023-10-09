@@ -28,9 +28,9 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Why is it important to orchestrate your automation built in Python or other programming languages?](https://dev.to/botcitydev/why-is-it-important-to-orchestrate-your-automation-built-in-python-or-other-programming-languages-2hb7)
+- [Por que é importante orquestrar suas automações feitas em Python ou outras linguagens de programação?](https://dev.to/botcitydev/por-que-e-importante-orquestrar-suas-automacoes-feitas-em-python-ou-outras-linguagens-de-programacao-4lgn)
 - [Construindo um bot com Python RPA para interagir com sistemas desktop](https://dev.to/botcitydev/construindo-um-bot-com-python-rpa-para-interagir-com-sistemas-desktop-54n9)
 - [Comunicação além das técnicas](https://dev.to/morgannadev/comunicacao-alem-das-tecnicas-2fen)
 - [Como iniciar meus estudos em Python](https://dev.to/feministech/como-iniciar-meus-estudos-em-python-2aii)
-- [Por que usar Python em seu projeto RPA?](https://dev.to/morgannadev/por-que-usar-python-em-seu-projeto-rpa-49fn)
-- [Hello World challenges: creating my first bot with Python RPA using BotCity](https://dev.to/botcitydev/hello-world-challenges-creating-my-first-bot-with-python-rpa-using-botcity-4ab1)
 <!-- BLOG-POST-LIST:END -->
