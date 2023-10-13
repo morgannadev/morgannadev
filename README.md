@@ -27,11 +27,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Como adicionar as badges do Hacktoberfest no seu perfil do GitHub](https://dev.to/feministech/como-adicionar-as-badges-do-hacktoberfest-no-seu-perfil-do-github-3ngk)
 - [Hacktoberfest para quem quer começar](https://dev.to/feministech/hacktoberfest-para-quem-quer-comecar-3njp)
 - [Why is it important to orchestrate your automation built in Python or other programming languages?](https://dev.to/botcitydev/why-is-it-important-to-orchestrate-your-automation-built-in-python-or-other-programming-languages-2hb7)
 - [Por que é importante orquestrar suas automações feitas em Python ou outras linguagens de programação?](https://dev.to/botcitydev/por-que-e-importante-orquestrar-suas-automacoes-feitas-em-python-ou-outras-linguagens-de-programacao-4lgn)
 - [Construindo um bot com Python RPA para interagir com sistemas desktop](https://dev.to/botcitydev/construindo-um-bot-com-python-rpa-para-interagir-com-sistemas-desktop-54n9)
-- [Comunicação além das técnicas](https://dev.to/morgannadev/comunicacao-alem-das-tecnicas-2fen)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
