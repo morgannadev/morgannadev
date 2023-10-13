@@ -8,8 +8,7 @@
 🤩 Líder de comunidade no [GitHub Open Source Community SP](https://linktr.ee/ghcommunitysp); \
 🥑 Developer Relations e Tech Writer na [BotCity](https://github.com/botcity-dev); \
 ⚔️ Moderadora na [Abacatinhos](https://github.com/abacatinhos); \
-📝 Criadora de conteúdo tech; \
-⭐ Alura Star.
+📝 Criadora de conteúdo tech.
 
 <a href="https://www.linkedin.com/in/morgannadev/"><img src="https://raw.githubusercontent.com/morgannadev/morgannadev/main/img/linkedin.png" alt="logo do linkedin" height=25></img></a> <a href="https://instagram.com/morgannadev"><img src="https://raw.githubusercontent.com/morgannadev/morgannadev/main/img/instagram.png" alt="logo do linkedin" height=25></img></a> <a href="https://dev.to/morgannadev"><img src="https://raw.githubusercontent.com/morgannadev/morgannadev/main/img/devto.png" alt="logo do devto" height=25></img></a> <a href="https://www.twitch.tv/morgannadev"><img src="https://raw.githubusercontent.com/morgannadev/morgannadev/main/img/twitch.png" alt="logo do twitch" height=25></img></a> <a href="https://www.polywork.com/morgannadev"><img src="https://raw.githubusercontent.com/morgannadev/morgannadev/main/img/polywork.png" alt="logo do polywork" height=25></img></a>
 
