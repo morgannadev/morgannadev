@@ -33,3 +33,6 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 - [Construindo um bot com Python RPA para interagir com sistemas desktop](https://dev.to/botcitydev/construindo-um-bot-com-python-rpa-para-interagir-com-sistemas-desktop-54n9)
 - [Comunicação além das técnicas](https://dev.to/morgannadev/comunicacao-alem-das-tecnicas-2fen)
 <!-- BLOG-POST-LIST:END -->
+
+## Hacktoberfest badges 💻
+[![An image of @morgannadev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/morgannadev)](https://holopin.io/@morgannadev)
