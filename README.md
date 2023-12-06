@@ -17,11 +17,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
 - [Ferramentas que você pode usar para praticar Python online](https://dev.to/feministech/ferramentas-que-voce-pode-usar-para-praticar-python-online-27no)
 - [Como adicionar as badges do Hacktoberfest no seu perfil do GitHub](https://dev.to/feministech/como-adicionar-as-badges-do-hacktoberfest-no-seu-perfil-do-github-3ngk)
 - [Hacktoberfest para quem quer começar](https://dev.to/feministech/hacktoberfest-para-quem-quer-comecar-3njp)
 - [Why is it important to orchestrate your automation built in Python or other programming languages?](https://dev.to/botcitydev/why-is-it-important-to-orchestrate-your-automation-built-in-python-or-other-programming-languages-2hb7)
-- [Por que é importante orquestrar suas automações feitas em Python ou outras linguagens de programação?](https://dev.to/botcitydev/por-que-e-importante-orquestrar-suas-automacoes-feitas-em-python-ou-outras-linguagens-de-programacao-4lgn)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
