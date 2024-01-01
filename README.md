@@ -17,11 +17,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Como se tornar uma pessoa desenvolvedora em 2024?](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 - [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
 - [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
 - [Ferramentas que você pode usar para praticar Python online](https://dev.to/feministech/ferramentas-que-voce-pode-usar-para-praticar-python-online-27no)
 - [Como adicionar as badges do Hacktoberfest no seu perfil do GitHub](https://dev.to/feministech/como-adicionar-as-badges-do-hacktoberfest-no-seu-perfil-do-github-3ngk)
-- [Hacktoberfest para quem quer começar](https://dev.to/feministech/hacktoberfest-para-quem-quer-comecar-3njp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
