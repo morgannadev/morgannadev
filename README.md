@@ -17,11 +17,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Para quem é a sua homenagem para mulheres na tecnologia?](https://dev.to/feministech/para-quem-e-a-sua-homenagem-para-mulheres-na-tecnologia-1aoo)
 - [Como identificar se a automação está executando localmente ou no BotCity Orquestrador?](https://dev.to/botcitydev/como-identificar-se-a-automacao-esta-executando-localmente-ou-no-botcity-orquestrador-3kh8)
 - [The Zen of Python - um olhar sobre a filosofia do Python](https://dev.to/feministech/the-zen-of-python-um-olhar-sobre-a-filosofia-do-python-16ai)
 - [Como se tornar uma pessoa desenvolvedora em 2024?](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 - [A arte do erro sem mensagem: por que meu código Python interpretou minha variável como tupla ao invés de int](https://dev.to/feministech/a-arte-do-erro-sem-mensagem-por-que-meu-codigo-python-interpretou-minha-variavel-como-tupla-ao-inves-de-int-56bf)
-- [Do medo do Open Source ao impacto na comunidade: Projeto Octocats Hacktoberfest 2023](https://dev.to/feministech/do-medo-do-open-source-ao-impacto-na-comunidade-projeto-octocats-hacktoberfest-2023-168b)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
