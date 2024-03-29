@@ -17,7 +17,7 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
-- [O papel da pessoa desenvolvedora muito além do código](https://dev.to/feministech/o-papel-da-pessoa-desenvolvedora-muito-alem-do-codigo-149h)
+- [O papel da pessoa desenvolvedora muito além do código](https://dev.to/botcitydev/o-papel-da-pessoa-desenvolvedora-muito-alem-do-codigo-149h)
 - [As mulheres que mudaram o rumo da tecnologia](https://dev.to/feministech/as-mulheres-que-mudaram-o-rumo-da-tecnologia-4b6d)
 - [Dicas sobre desenvolvimento de automação com visão computacional](https://dev.to/botcitydev/dicas-sobre-desenvolvimento-de-automacao-com-visao-computacional-1132)
 - [Como identificar problemas de ambiente ao tentar instalar BotCity Studio SDK](https://dev.to/botcitydev/como-identificar-problemas-de-ambiente-ao-tentar-instalar-botcity-studio-sdk-17k8)
