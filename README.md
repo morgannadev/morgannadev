@@ -17,11 +17,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [O papel da pessoa desenvolvedora muito além do código](https://dev.to/feministech/o-papel-da-pessoa-desenvolvedora-muito-alem-do-codigo-149h)
 - [As mulheres que mudaram o rumo da tecnologia](https://dev.to/feministech/as-mulheres-que-mudaram-o-rumo-da-tecnologia-4b6d)
 - [Dicas sobre desenvolvimento de automação com visão computacional](https://dev.to/botcitydev/dicas-sobre-desenvolvimento-de-automacao-com-visao-computacional-1132)
 - [Como identificar problemas de ambiente ao tentar instalar BotCity Studio SDK](https://dev.to/botcitydev/como-identificar-problemas-de-ambiente-ao-tentar-instalar-botcity-studio-sdk-17k8)
 - [Para quem é a sua homenagem para mulheres na tecnologia?](https://dev.to/feministech/para-quem-e-a-sua-homenagem-para-mulheres-na-tecnologia-1aoo)
-- [Como identificar se a automação está executando localmente ou no BotCity Orquestrador?](https://dev.to/botcitydev/como-identificar-se-a-automacao-esta-executando-localmente-ou-no-botcity-orquestrador-3kh8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
