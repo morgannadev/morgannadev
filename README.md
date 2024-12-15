@@ -5,8 +5,7 @@
 💙 Mais conhecida como Morgs; \
 💻 Espalho a palavra da Ada Lovelace; \
 👑 Co-fundadora das comunidades [Feministech](https://github.com/feministech). [Kotlinautas](https://kotlinautas.dev/), [CaquiCoders](https://www.meetup.com/pt-BR/caquicoders/); \
-🤩 Líder de comunidade no [GitHub Open Source Community SP](https://linktr.ee/ghcommunitysp); \
-🥑 Developer Relations e Tech Writer na [BotCity](https://github.com/botcity-dev); \
+🥑 Developer Relations; \
 ⚔️ Moderadora na [Abacatinhos](https://github.com/abacatinhos); \
 📝 Criadora de conteúdo tech.
 
