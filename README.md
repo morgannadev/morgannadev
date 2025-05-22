@@ -16,11 +16,11 @@ Devido a todas as minhas contribuições com as comunidades de tecnologia, receb
 
 ## Posts no Dev.to 📝
 <!-- BLOG-POST-LIST:START -->
+- [Educação, Developer Relations e Inteligência Artificial](https://dev.to/morgannadev/educacao-developer-relations-e-inteligencia-artificial-1hi)
 - [Como maximizar o uso da Inteligência Artificial com a engenharia de prompt](https://dev.to/feministech/como-maximizar-o-uso-da-inteligencia-artificial-com-a-engenharia-de-prompt-30od)
 - [Trilha de estudos para ser uma pessoa desenvolvedora Python RPA](https://dev.to/botcitydev/trilha-de-estudos-para-ser-uma-pessoa-desenvolvedora-python-rpa-3o85)
 - [O papel da pessoa desenvolvedora muito além do código](https://dev.to/botcitydev/o-papel-da-pessoa-desenvolvedora-muito-alem-do-codigo-149h)
 - [As mulheres que mudaram o rumo da tecnologia](https://dev.to/feministech/as-mulheres-que-mudaram-o-rumo-da-tecnologia-4b6d)
-- [Dicas sobre desenvolvimento de automação com visão computacional](https://dev.to/botcitydev/dicas-sobre-desenvolvimento-de-automacao-com-visao-computacional-1132)
 <!-- BLOG-POST-LIST:END -->
 
 ## Hacktoberfest badges 💻
